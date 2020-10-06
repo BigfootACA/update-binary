@@ -1,0 +1,4 @@
+*.o
+*.a
+*.plist
+update-binary
